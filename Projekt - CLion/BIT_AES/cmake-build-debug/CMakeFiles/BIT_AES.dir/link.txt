@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/BIT_AES.dir/main.c.o CMakeFiles/BIT_AES.dir/encrypt_logic.c.o CMakeFiles/BIT_AES.dir/io.c.o  -o BIT_AES 

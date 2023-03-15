@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ondrej/CLionProjects/BIT_AES/encrypt_logic.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+encrypt_logic.h
+/home/ondrej/CLionProjects/BIT_AES/encrypt_logic.h
+io.h
+/home/ondrej/CLionProjects/BIT_AES/io.h
+resources.h
+/home/ondrej/CLionProjects/BIT_AES/resources.h
+
+/home/ondrej/CLionProjects/BIT_AES/encrypt_logic.h
+
+/home/ondrej/CLionProjects/BIT_AES/io.h
+stdbool.h
+-
+
+/home/ondrej/CLionProjects/BIT_AES/resources.h
+

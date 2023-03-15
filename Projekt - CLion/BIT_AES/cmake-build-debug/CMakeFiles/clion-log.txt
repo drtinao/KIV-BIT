@@ -1,0 +1,4 @@
+/home/ondrej/Stažené/clion-2019.2.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/ondrej/CLionProjects/BIT_AES
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ondrej/CLionProjects/BIT_AES/cmake-build-debug
